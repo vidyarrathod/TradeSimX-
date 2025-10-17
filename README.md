@@ -1,4 +1,4 @@
-# TradeSimX-
+
 📈 Backtest Platform
 🧠 Overview
 

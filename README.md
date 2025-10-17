@@ -1,9 +1,4 @@
-Absolutely 👍 — here’s your **Backtest Platform README** in **proper structured Markdown format** (ready to paste directly into your GitHub `README.md` file or form).
-Everything is formatted cleanly with headings, lists, and code blocks 👇
 
----
-
-```markdown
 # 📈 Backtest Platform
 
 ## 🧠 Overview

@@ -56,7 +56,7 @@ backtest-platform-main/
 ├── main.py               # Entry point for running backtests
 └── README.md             # Project documentation
 
-````
+```
 
 ---
 
@@ -79,6 +79,3 @@ pip install -r requirements.txt
 Place your historical data (e.g., `AAPL.csv`, `BTCUSD.csv`) in the `data/` folder.
 
 ---
-
-, I’ll scan your uploaded `backtest-platform-main.zip` and update the README accordingly — with correct script names, dependencies, and usage commands.
-```
